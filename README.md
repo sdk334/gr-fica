@@ -1,5 +1,9 @@
 # Proyecto Docker — Contenedores con C y Python
 
+**Alumno:** Jonathan Uriel Paredes Martinez
+**Carrera:** Ingeniería en Sistemas Computacionales — ESCOM IPN
+
+
 Incluye dos contenedores funcionales: uno en **C** que genera imágenes JPG y uno en **Python** que genera gráficas matemáticas como PNG.
 
 ---
